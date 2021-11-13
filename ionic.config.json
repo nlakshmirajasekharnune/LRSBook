@@ -1,0 +1,7 @@
+{
+  "name": "LRSBook",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
